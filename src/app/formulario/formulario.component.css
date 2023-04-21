@@ -1,0 +1,34 @@
+/* Estilo para el formulario */
+.form-row {
+  margin-bottom: 15px;
+}
+
+/* Estilo para las etiquetas de formulario */
+.form-label {
+  font-weight: bold;
+}
+
+/* Estilo para los campos de entrada de formulario */
+.form-control {
+  margin-bottom: 10px;
+}
+
+/* Estilo para el botón de envío */
+.btn-primary {
+  margin-top: 10px;
+}
+
+/* Estilo para la casilla de verificación */
+.form-check-label {
+  font-weight: normal;
+}
+
+body {
+  background: rgba(0,0,0,.183);
+}
+.header {
+  color: white;
+  text-align: center;
+  text-decoration: underline;
+  font-weight: bold;
+}
